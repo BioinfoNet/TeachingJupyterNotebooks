@@ -1,1 +1,1 @@
-# Introducction to Jupyter Notebooks for Reproducible Research
+# Jupyter Notebooks for Reproducible Research
