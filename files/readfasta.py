@@ -6,5 +6,6 @@ def readgenome (filename):
             genome += line.rstrip() # removing all the new line characters in the string
     return genome # spit out the result of the function
     
+## Fix this path
 filename = '/Users/aoi-rain/Downloads/presentation-update/chr-1.fasta'
 fasta = readgenome(filename)[10143: 11143]
