@@ -13,12 +13,12 @@ notebooks.
 * Afterwards, navigate to the directory where the folder is using `cd` and `ls`. Then
 run this command in your terminal 
 
-`conda env create -f environment.yml`
+	`conda env create -f environment.yml`
 
 This will create an environment called jupyter-notebook-tutorial. You can activate it 
 like this
 
-`source activate jupyter-notebook-tutorial
+	`source activate jupyter-notebook-tutorial`
 
 * In your terminal, in the directory where you cloned this repository. Run this command
 
