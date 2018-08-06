@@ -6,7 +6,7 @@ notebooks.
 
 ---
 
-Setting Up
+### Setting Up
 
 * Download Anaconda for your operating system for Python 3. Use this [link]()
 
@@ -26,7 +26,7 @@ jupyter notebook jupyter-notebook-slides.ipynb
 
 ---
 
-Project Structure
+### Project Structure
 
 The repository has a number of files that constitute elements of the jupyter notebook. 
 They include:
