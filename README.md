@@ -34,15 +34,15 @@ This will create an environment called jupyter-notebook-tutorial. You can activa
 The repository has a number of files that constitute elements of the jupyter notebook. 
 They include:
 
-    - `README.md` : Markdown text with an explanation of how the user can make use of these resources. 
+- `README.md` : Markdown text with an explanation of how the user can make use of these resources. 
 
-    - `images:` Contains pictures that are embedded in the notebook.
+- `images:` Contains pictures that are embedded in the notebook.
 
-    - `environment.yml`: Has instructions to create the same environment the creator has in your
-    own system.
+- `environment.yml`: Has instructions to create the same environment the creator has in your
+own system.
 
-    - `jupyter-notebook-slides.ipynb`: Contains the presentation that shows the reader how to use
-    notebooks with bioinformatic examples mostly.
+- `jupyter-notebook-slides.ipynb`: Contains the presentation that shows the reader how to use
+notebooks with bioinformatic examples mostly.
 
-    - `files:` Has a variety of files from notebooks, fasta, fastq files among other files.
+- `files:` Has a variety of files from notebooks, fasta, fastq files among other files.
 
