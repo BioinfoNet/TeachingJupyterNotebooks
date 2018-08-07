@@ -36,8 +36,6 @@ They include:
 
 - `README.md` : Markdown text with an explanation of how the user can make use of these resources. 
 
-- `images:` Contains pictures that are embedded in the notebook.
-
 - `environment.yml`: Has instructions to create the same environment the creator has in your
 own system.
 
