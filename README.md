@@ -44,3 +44,5 @@ notebooks with bioinformatic examples mostly.
 
 - `files:` Has a variety of files from notebooks, fasta, fastq files among other files.
 
+- `storeddf.ipynb`: Contains created dataframes of counts of specific bases of several microbes 16S rRNA gene.  
+
