@@ -33,7 +33,7 @@ Alternatively, let's get packages which will enable you to use the tools that ar
 
     `pip install jupyter_contrib_nbextensions`
     
-    `jupyter-contrib nbextension install --sys-prefix
+    `jupyter-contrib nbextension install --sys-prefix`
 
 * Now to get the interactive dataframe tool called qgrid
 
