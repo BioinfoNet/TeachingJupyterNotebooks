@@ -30,6 +30,7 @@ This will create an environment called jupyter-notebook-tutorial. You can activa
 Alternatively, let's get packages which will enable you to use the tools that are demonstrated.
 
 * Open your terminal. Type this command to get Nbextensions
+
     `pip install jupyter_contrib_nbextensions`
     
     `jupyter-contrib nbextension install --sys-prefix
