@@ -31,9 +31,11 @@ Alternatively, let's get packages which will enable you to use the tools that ar
 
 * Open your terminal. Type this command to get Nbextensions
     `pip install jupyter_contrib_nbextensions`
+    
     `jupyter-contrib nbextension install --sys-prefix
 
 * Now to get the interactive dataframe tool called qgrid
+
 	`pip install qgrid`
 	
 * Then get bioconda. This avails tools commonly used for bioinformatics e.g samtools,
