@@ -26,6 +26,24 @@ This will create an environment called jupyter-notebook-tutorial. You can activa
 * In your terminal, in the directory where you cloned this repository. Run this command
 
     `jupyter notebook jupyter-notebook-slides.ipynb`
+    
+Alternatively, let's get packages which will enable you to use the tools that are demonstrated.
+
+* Open your terminal. Type this command to get Nbextensions
+    `pip install jupyter_contrib_nbextensions`
+    `jupyter-contrib nbextension install --sys-prefix
+
+* Now to get the interactive dataframe tool called qgrid
+	`pip install qgrid`
+	
+* Then get bioconda. This avails tools commonly used for bioinformatics e.g samtools,
+bowtie and bwa. Follow the steps in this [link](https://bioconda.github.io/)
+    
+    
+* To get tools specifically for bioinformatics. Get scikit-bio 
+	`pip install scikit-bio`
+
+
 
 ---
 
