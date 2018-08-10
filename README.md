@@ -35,7 +35,7 @@ Alternatively, let's get packages which will enable you to use the tools that ar
     
     `jupyter-contrib nbextension install --sys-prefix`
     
-* You can get the jupyter notebook themes using this lin
+* You can get the jupyter notebook themes using this line
 	
 	`pip install jupyterthemes`    
 
