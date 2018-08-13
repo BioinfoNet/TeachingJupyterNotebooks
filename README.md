@@ -53,10 +53,6 @@ Alternatively, let's get packages which will enable you to use the tools that ar
     `pip install jupyter_contrib_nbextensions`
     
     `jupyter-contrib nbextension install --sys-prefix`
-    
-* You can get the jupyter notebook themes using this line
-	
-	`pip install jupyterthemes`    
 
 * Now to get the interactive dataframe tool called qgrid
 
@@ -89,4 +85,10 @@ notebooks with bioinformatic examples mostly.
 
 - `storeddf.ipynb`: Contains created dataframes of counts of specific bases of several microbes 16S rRNA gene.  
 
+
+## Further Reading
+This was a quick introduction. To learn more about Jupyter notebooks, and what you cna do with it, check the following resources:
+- [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+- [Jupyter Documentation](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
+- [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 
