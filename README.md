@@ -53,6 +53,10 @@ Alternatively, let's get packages which will enable you to use the tools that ar
     `pip install jupyter_contrib_nbextensions`
     
     `jupyter-contrib nbextension install --sys-prefix`
+    
+* You can get the jupyter notebook themes using this line
+	
+	`pip install jupyterthemes`    
 
 * Now to get the interactive dataframe tool called qgrid
 
