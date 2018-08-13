@@ -6,6 +6,25 @@ notebooks.
 
 ---
 
+## Quick Introduction to Jupyter Notebooks
+
+Throughout this worksop, we will be using Jupyter Notebooks. Although the vlab you will be using will have Jupyter setup, these notes are provided for you want to set it up in your Computer. 
+
+### Introduction
+The Jupyter Notebook is an interactive computing environment that enables users to author notebooks, which contain a complete and self-contained record of a computation. These notebooks can be shared more efficiently. The notebooks may contain:
+* Live code
+* Interactive widgets
+* Plots
+* Narrative text
+* Equations
+* Images
+* Video
+
+It is good to note that "Jupyter" is a loose acronym meaning Julia, Python, and R; the primary languages supported by Jupyter. 
+
+The notebook can allow a computational researcher to create reproducible documentation of their research. As Bioinformatics is datacentric, use of Jupyter Notebooks increases research transparency, hence promoting open science. 
+
+
 ### Setting Up
 * Clone this repository to your working directory. 
 
@@ -47,10 +66,9 @@ bowtie and bwa. Follow the steps in this [link](https://bioconda.github.io/)
 	`pip install scikit-bio`
 
 
-
 ---
 
-### Project Structure
+## Project Structure
 
 The repository has a number of files that constitute elements of the jupyter notebook. 
 They include:
@@ -66,4 +84,5 @@ notebooks with bioinformatic examples mostly.
 - `files:` Has a variety of files from notebooks, fasta, fastq files among other files.
 
 - `storeddf.ipynb`: Contains created dataframes of counts of specific bases of several microbes 16S rRNA gene.  
+
 
