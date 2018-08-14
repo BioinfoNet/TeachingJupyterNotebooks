@@ -68,6 +68,7 @@ bowtie and bwa. Follow the steps in this [link](https://bioconda.github.io/)
     
     
 * To get tools specifically for bioinformatics. Get scikit-bio 
+	
 	`pip install scikit-bio`
 
 
