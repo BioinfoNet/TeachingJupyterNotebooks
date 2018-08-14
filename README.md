@@ -8,10 +8,11 @@ notebooks.
 
 ## Quick Introduction to Jupyter Notebooks
 
-Throughout this worksop, we will be using Jupyter Notebooks. Although the vlab you will be using will have Jupyter setup, these notes are provided for you want to set it up in your Computer. 
+Throughout this workshop, we will be using Jupyter Notebooks. Although the vlabs's available you will be using will have Jupyter setup, these notes are provided for you want to set it up in your computer. 
 
 ### Introduction
 The Jupyter Notebook is an interactive computing environment that enables users to author notebooks, which contain a complete and self-contained record of a computation. These notebooks can be shared more efficiently. The notebooks may contain:
+
 * Live code
 * Interactive widgets
 * Plots
@@ -20,7 +21,7 @@ The Jupyter Notebook is an interactive computing environment that enables users 
 * Images
 * Video
 
-It is good to note that "Jupyter" is a loose acronym meaning Julia, Python, and R; the primary languages supported by Jupyter. 
+It is good to note that "Jupyter" is a loose acronym meaning Julia, Python, and R; the primary languages supported by Jupyter. However, other languages are supported by Jupyter.
 
 The notebook can allow a computational researcher to create reproducible documentation of their research. As Bioinformatics is datacentric, use of Jupyter Notebooks increases research transparency, hence promoting open science. 
 
@@ -57,6 +58,10 @@ Alternatively, let's get packages which will enable you to use the tools that ar
 * Now to get the interactive dataframe tool called qgrid
 
 	`pip install qgrid`
+
+* You can also search github to figure out what you've installed does for instance,
+here's the repository for Nbextensions
+https://github.com/ipython-contrib/jupyter_contrib_nbextensions and qgrid https://github.com/quantopian/qgrid.
 	
 * Then get bioconda. This avails tools commonly used for bioinformatics e.g samtools,
 bowtie and bwa. Follow the steps in this [link](https://bioconda.github.io/)
@@ -87,7 +92,7 @@ notebooks with bioinformatic examples mostly.
 
 
 ## Further Reading
-This was a quick introduction. To learn more about Jupyter notebooks, and what you cna do with it, check the following resources:
+This was a quick introduction. To learn more about Jupyter notebooks, and what you can do with it, check the following resources:
 - [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
 - [Jupyter Documentation](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
 - [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
