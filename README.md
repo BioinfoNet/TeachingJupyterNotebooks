@@ -60,8 +60,9 @@ Alternatively, let's get packages which will enable you to use the tools that ar
 	`pip install qgrid`
 
 * You can also search github to figure out what you've installed does for instance,
-here's the repository for Nbextensions
+here's the repository for jupyter themes https://github.com/dunovank/jupyter-themes, Nbextensions
 https://github.com/ipython-contrib/jupyter_contrib_nbextensions and qgrid https://github.com/quantopian/qgrid.
+Additionally, these were covered during the presentation.
 	
 * Then get bioconda. This avails tools commonly used for bioinformatics e.g samtools,
 bowtie and bwa. Follow the steps in this [link](https://bioconda.github.io/)
