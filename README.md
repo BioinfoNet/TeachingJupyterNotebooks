@@ -86,7 +86,8 @@ They include:
 own system.
 
 - `jupyter-notebook-slides.ipynb`: Contains the presentation that shows the reader how to use
-notebooks with bioinformatic examples mostly.
+notebooks with bioinformatic examples mostly. If you're having problems starting up this notebook, try opening 
+`jupyter-notebook-slides2.ipynb`
 
 - `files:` Has a variety of files from notebooks, fasta, fastq files among other files.
 
