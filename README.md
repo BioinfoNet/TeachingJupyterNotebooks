@@ -57,7 +57,7 @@ Alternatively, let's get packages which will enable you to use the tools that ar
 
 * Now to get the interactive dataframe tool called qgrid
 
-	`pip install qgrid`
+	`pip install qgrid==0.3.3`
 
 * You can also search github to figure out what you've installed does for instance,
 here's the repository for jupyter themes https://github.com/dunovank/jupyter-themes, Nbextensions
