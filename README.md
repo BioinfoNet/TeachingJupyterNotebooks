@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shuyib/TeachingJupyterNotebooks/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BioinfoNet/TeachingJupyterNotebooks/HEAD)
 
 # TeachingJupyterNotebooks
 
